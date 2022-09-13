@@ -1,9 +1,9 @@
 #include "main.h"
 
-int main()
+int main(void)
 {
 	putchar(_putchar);
 	putchar(\n);
-	recturn (0);
+	return (0);
 }
 
